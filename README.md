@@ -1,0 +1,1 @@
+# go-rand_demo
